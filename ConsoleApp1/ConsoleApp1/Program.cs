@@ -13,5 +13,10 @@ namespace ConsoleApp1
         { 
             
         }
+        
+        static void feature2()
+        { 
+            
+        }
     }
 }
